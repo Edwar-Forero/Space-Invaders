@@ -11,6 +11,8 @@
 2. Debe contar con IDE, el cual permita ejecutar el lenguaje C#, es recomendable utilizar [Visual Studio](https://c2rsetup.officeapps.live.com/c2r/downloadVS.aspx?sku=community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030).
 3. Por ultimo solo es necesario ejecutar el codigo, se debe ejecutar primero el Form1.cs
 
+
+
 # ¿Como jugar?
 Para mover la nave solo es nesario utilizar las teclas:
 - A = Desplazamiento hacia la Derecha
@@ -19,3 +21,9 @@ Para mover la nave solo es nesario utilizar las teclas:
 
 # Informe
 Lo puede encontrar en la ruta [Informe](SPACE%20INVADERS/Informe-ProyectoFinal_POO.docx.pdf)
+
+# Imagenes
+![Portada](Portada.png)
+
+
+![Jugando](Jugando.png)
