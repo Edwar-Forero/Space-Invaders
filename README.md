@@ -1,5 +1,5 @@
 # Proyecto Final POO: Space-Invaders
-### Este es el proyecto final del cuerso de POO, en el cual se realizo una imitacion del famoso juego space invaders, fue desarrollado en el lenguaje de C#.
+### Este es el proyecto final del curso de POO, en el cual se realizo una imitacion del famoso juego space invaders, fue desarrollado en el lenguaje de C#.
 ## Desarrolladores
 ```
 - Santiago Anibal Carrillo Torres
