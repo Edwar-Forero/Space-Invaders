@@ -1,0 +1,64 @@
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.exe
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.deps.json
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.runtimeconfig.json
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.dll
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.pdb
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.csproj.AssemblyReference.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Form1.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Properties.Resources.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.csproj.GenerateResource.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.AssemblyInfoInputs.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.AssemblyInfo.cs
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.csproj.CoreCompileInputs.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.dll
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\refint\SpaceInvader_1.2.dll
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.pdb
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.genruntimeconfig.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\ref\SpaceInvader_1.2.dll
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Form2.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.2\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Form3.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.exe
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.deps.json
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.runtimeconfig.json
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.dll
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.pdb
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.csproj.AssemblyReference.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Form1.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Form2.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Form3.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Properties.Resources.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.csproj.GenerateResource.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.AssemblyInfoInputs.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.AssemblyInfo.cs
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.csproj.CoreCompileInputs.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.dll
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\refint\SpaceInvader_1.2.dll
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.pdb
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.genruntimeconfig.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\ref\SpaceInvader_1.2.dll
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Form4.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SpaceInvader_1.3\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Form5.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.exe
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.deps.json
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.runtimeconfig.json
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.dll
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\bin\Debug\net6.0-windows\SpaceInvader_1.2.pdb
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.csproj.AssemblyReference.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Form1.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Form2.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Form3.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Form4.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Form5.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1._2.Properties.Resources.resources
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.csproj.GenerateResource.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.AssemblyInfoInputs.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.AssemblyInfo.cs
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.csproj.CoreCompileInputs.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.dll
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\refint\SpaceInvader_1.2.dll
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.pdb
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\SpaceInvader_1.2.genruntimeconfig.cache
+C:\Users\Edwar\OneDrive\Documentos\UNIVALLE_2do_Semestre\POO\TRABAJO FINAL\SPACE INVADERS\SpaceInvader_1.3\SpaceInvader_1.2\obj\Debug\net6.0-windows\ref\SpaceInvader_1.2.dll
