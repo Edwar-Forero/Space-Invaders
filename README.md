@@ -18,4 +18,4 @@ Para mover la nave solo es nesario utilizar las teclas:
 - Click derecho/izquierdo del mouse = Disparo
 
 # Informe
-Lo puede encontrar en la ruta [Informe](SPACE INVADERS/Informe-ProyectoFinal_POO.docx.pdf)
+Lo puede encontrar en la ruta [Informe](SpaceInvaders/Informe-ProyectoFinal_POO.docx.pdf)
